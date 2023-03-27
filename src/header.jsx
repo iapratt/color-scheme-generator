@@ -6,7 +6,7 @@ import logo from '../src/assets/palette-logo.png'
 function Header() {
     return (
         <div className='header'>
-            <div className='logotitle'>
+            <div className='logo-title'>
                 <img src={logo} alt="logo" className="logo" />
                 <p>Color Scheme Generator</p>
             </div>
